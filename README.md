@@ -1,3 +1,11 @@
+## References:
+
+- [Build a CRUD Todo app with Django and React/Redux](https://medium.com/technest/build-a-crud-todo-app-with-django-and-react-redux-8ddb0b6ac2f0)
+- [DjangoReactTodo](https://github.com/kjmczk/DjangoReactTodo)
+Build a simple CRUD Todo app with Django, React and Semantic UI
+
+## Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
