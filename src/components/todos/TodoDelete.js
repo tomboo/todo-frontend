@@ -14,7 +14,7 @@ class TodoDelete extends Component {
     if (!this.props.todo) {
       return 'Are you sure you want to delete this task?';
     }
-    return `Are you sure you want to delete the task: ${this.props.todo.title}`;
+    return `Are you sure you want to delete the task: ${this.props.todo.task}`;
   }
 
   renderActions() {

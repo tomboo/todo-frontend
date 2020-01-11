@@ -24,11 +24,10 @@ class TodoList extends Component {
             <i className='large calendar outline middle aligned icon' />
             <div className='content'>
               <Link to={`/edit/${todo.id}`} className='header'>
-                {todo.title}
+                {todo.task}
               </Link>
-              <div className='description'>{todo.body}</div>
+              <div className='description'>{todo.created_at}</div>
             </div>
-            <hr />
           </div>
         ))}
       </div>
